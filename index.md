@@ -12,6 +12,9 @@ For this school project my group members and I started a fictional company calle
 * Used SQL to write queries to gain insights about revenue, logistics, festivals and festival visitors
 * Used also R for the Exploratory Data Analysis (EDA) to modify en visualize data in order to extract insights
 
+## Some findings:
+![](./images/vcpl.png)
+![](./images/spmdo.png)
 
 # Project 2: New York City Property Sales Predictor
 Currently I'm working on a machine learning project to predict the price of properties in NYC and includes data about 80,000 properties. Besides the data set about the properties, I'm using another data set with demographic information about the NYC population and merged them together in order to predict property prices.
@@ -23,5 +26,3 @@ Currently I'm working on a machine learning project to predict the price of prop
 ## Some findings:
 ![](./images/dsp.png)
 ![](./images/ovsdsp.png)
-![](./images/bmpds.png)
-
