@@ -1,4 +1,4 @@
-## About me
+# About me
 Hello! My name is Milan Patty and I'm 21 years old. I am studying Information & Communication Technology at Fontys University of Applied Sciences in Eindhoven, the Netherlands. Currently I'm in my 4th semester following a specialization in Aritifical Intelligence. My previous semesters were in Business Informatics. I have a big passion for data and because of that I'm very eager to learn everything data related. I'm also active on Kaggle, Reddit, Quora and other platforms to learn more about data science and AI.
 
 # [Project 1: Festivate Exploratory Data Analysis](https://github.com/MLP99/Festivate-EDA)
