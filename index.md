@@ -1,11 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/MLP99/milan_portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-# [Project 1: Festivate Exploratory Data Analysis](https://mlp99.github.io/Festivate-EDA/)
+# [Project 1: Festivate Exploratory Data Analysis](https://github.com/MLP99/Festivate-EDA)
 For this school project my group members and I started a fictional company called Festivate to help fictional festival organizers to gain more insights from their data in order to help with decision making. I designed the SQL database for this project for the festival organizers and used R to manipulate and visualize data.
 
 * Designed a SQL database with 23 tables for the festival organizers
