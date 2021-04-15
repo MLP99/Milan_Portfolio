@@ -23,5 +23,5 @@ Currently I'm working on a machine learning project to predict the price of prop
 ## Some findings:
 ![](https://github.com/MLP99/milan_portfolio/blob/main/images/dsp.png)
 ![](https://github.com/MLP99/milan_portfolio/blob/main/images/ovsdsp.png)
-![](images/bmpds.png)
+![](/images/bmpds.png)
 
