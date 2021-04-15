@@ -21,7 +21,7 @@ Currently I'm working on a machine learning project to predict the price of prop
 * Currently using Hyper Parameter Tuning in order to boost my models predicting performance
 
 ## Some findings:
-![](https://github.com/MLP99/milan_portfolio/blob/main/images/dsp.png)
-![](https://github.com/MLP99/milan_portfolio/blob/main/images/ovsdsp.png)
+![](./images/dsp.png)
+![](./images/ovsdsp.png)
 ![](./images/bmpds.png)
 
