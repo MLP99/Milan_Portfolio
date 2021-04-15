@@ -1,2 +1,2 @@
-# Data science portfolio
+# Data Science Portfolio
 by Milan Patty
